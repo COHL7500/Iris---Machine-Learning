@@ -1,0 +1,25 @@
+Problemformulering 
+
+//Hvordan kan AI arbejde med eksisterende data og trænes til at fremstille samt klassificere nye data? //
+
+
+* Hvad er maskinlæring og logikken bag det? 
+
+* Hvad er supervised learning (regression/klassifikation)   
+
+* Hvilke eksempler er der på maskinlæring anvendt i virkeligheden?
+
+* Hvad er lineær regression?
+
+* Hvad omfatter udviklingsprocessen for et maskinlæringsprogram? 
+
+* Hvilke matematiske metoder anvendes til lineær regression for maskinlæring?
+
+* Hvordan fungerer klassifikation? 
+
+* Hvordan kan man optimere ens model? 
+ 
+
+
+
+
