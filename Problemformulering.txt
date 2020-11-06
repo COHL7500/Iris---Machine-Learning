@@ -1,4 +1,4 @@
-OBS: Jeg har inkluderet klassifikation og lineær regresssion. Mit fokus bliver lineær regression, men ville også gerne vise et andet eksempel af supervised learning. 
+OBS: Jeg har inkluderet klassifikation og lineær regresssion. Mit fokus bliver lineær regression og gradient descent (partiel differentiation), som aftalt, men ville også gerne vise et andet eksempel af supervised learning. 
 
 
 Problemformulering 
