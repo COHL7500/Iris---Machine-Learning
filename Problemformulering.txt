@@ -1,3 +1,6 @@
+OBS: Jeg har inkluderet klassifikation og lineær regresssion. Mit fokus bliver lineær regression, men ville også gerne vise et andet eksempel af supervised learning. 
+
+
 Problemformulering 
 
 //Hvordan kan AI arbejde med eksisterende data og trænes til at fremstille samt klassificere nye data? //
@@ -15,11 +18,21 @@ Problemformulering
 
 * Hvilke matematiske metoder anvendes til lineær regression for maskinlæring?
 
-* Hvordan fungerer klassifikation? 
+* Hvilke andre eksempler findes af supervised learning? 
 
 * Hvordan kan man optimere ens model? 
  
 
 
+Koden til de centrale programmer for SOP: 
 
+https://github.com/COHL7500/ML_SOP_BRS
+
+Hvis du oplever udfordringer med visning af koden, brug følgende links: 
+
+(Maskinlæring - klassifikation)
+https://nbviewer.jupyter.org/github/COHL7500/ML-project_DDU2/blob/main/ML_classification.ipynb
+
+(Maskinlæring - Lineær regression)
+https://nbviewer.jupyter.org/github/COHL7500/ML_SOP_BRS/blob/main/ML_SOP_linear.ipynb
 
