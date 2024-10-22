@@ -1,4 +1,4 @@
-Hvis du ikke kan forhåndsvise koden samt den bliver kørt, så brug følgende link:
+If you cannot preview on GitHub, refer to the following links:
 
 Kode til Gradient Descent (iris):
 https://nbviewer.jupyter.org/github/COHL7500/ML_SOP_BRS/blob/main/Gradient%20Descent%20%28Iris%29.ipynb
